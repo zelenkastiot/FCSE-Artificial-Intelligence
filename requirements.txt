@@ -1,0 +1,5 @@
+# Requirements for Binder session
+pandas
+numpy 
+scikit-learn
+scipy
